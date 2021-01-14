@@ -9,7 +9,6 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
-qenv/
 build/
 develop-eggs/
 dist/
@@ -81,14 +80,14 @@ celerybeat-schedule
 *.sage.py
 
 # dotenv
-.env
+# .env
 
 # virtualenv
 .venv
 venv/
 ENV/
 .vscode
-benv/
+qenv2/
 # Spyder project settings
 .spyderproject
 .spyproject
